@@ -5,8 +5,9 @@
     box-sizing: border-box;
 }
 body{
-    background: #39297b;
+    background: linear-gradient(135deg, #130d29,rgb(104, 174, 197));
     color: #fff;
+    height: 100vh;
 }
 h1{
     text-align: center;
@@ -61,6 +62,7 @@ form button{
     margin: 10px auto 100px;
     cursor: pointer;
     display: none;
+    
 }
 
 #search-result{
